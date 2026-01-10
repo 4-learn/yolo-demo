@@ -4,6 +4,15 @@ from .dedup import EventDeduplicator, calculate_iou
 from .accumulator import EventAccumulator
 from .counter import ObjectCounter
 from .pipeline import EventPipeline
+from .rules import (
+    Rule,
+    RuleConditions,
+    RuleEngine,
+    RuleMatcher,
+    RuleResult,
+    Action,
+    Severity,
+)
 
 __all__ = [
     "DetectionEvent",
@@ -14,4 +23,11 @@ __all__ = [
     "EventAccumulator",
     "ObjectCounter",
     "EventPipeline",
+    "Rule",
+    "RuleConditions",
+    "RuleEngine",
+    "RuleMatcher",
+    "RuleResult",
+    "Action",
+    "Severity",
 ]
