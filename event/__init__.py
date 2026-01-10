@@ -50,6 +50,15 @@ from .aggregator import (
     group_by_interval,
     group_by_zone,
 )
+from .integration import (
+    ProcessingResult,
+    Alert,
+    AlertManager,
+    YOLOSimulator,
+    LLMInterface,
+    SimpleLLMPlaceholder,
+    SafetyMonitoringPipeline,
+)
 
 __all__ = [
     # Schema
@@ -106,4 +115,12 @@ __all__ = [
     "group_by_date",
     "group_by_interval",
     "group_by_zone",
+    # Integration
+    "ProcessingResult",
+    "Alert",
+    "AlertManager",
+    "YOLOSimulator",
+    "LLMInterface",
+    "SimpleLLMPlaceholder",
+    "SafetyMonitoringPipeline",
 ]
