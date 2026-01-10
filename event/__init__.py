@@ -23,6 +23,33 @@ from .ml_classifier import (
     FEATURE_NAMES,
 )
 from .hybrid_classifier import HybridClassifier
+from .filters import (
+    EventFilter,
+    TrueFilter,
+    FalseFilter,
+    ObjectFilter,
+    ConfidenceFilter,
+    TimeRangeFilter,
+    SourceFilter,
+    ZoneFilter,
+    LambdaFilter,
+    AndFilter,
+    OrFilter,
+    NotFilter,
+    FilterFactory,
+)
+from .aggregator import (
+    AggregateResult,
+    EventAggregator,
+    MultiDimensionAggregator,
+    SlidingWindowStats,
+    group_by_object,
+    group_by_source,
+    group_by_hour,
+    group_by_date,
+    group_by_interval,
+    group_by_zone,
+)
 
 __all__ = [
     # Schema
@@ -54,4 +81,29 @@ __all__ = [
     "FEATURE_NAMES",
     # Hybrid Classifier
     "HybridClassifier",
+    # Filters
+    "EventFilter",
+    "TrueFilter",
+    "FalseFilter",
+    "ObjectFilter",
+    "ConfidenceFilter",
+    "TimeRangeFilter",
+    "SourceFilter",
+    "ZoneFilter",
+    "LambdaFilter",
+    "AndFilter",
+    "OrFilter",
+    "NotFilter",
+    "FilterFactory",
+    # Aggregator
+    "AggregateResult",
+    "EventAggregator",
+    "MultiDimensionAggregator",
+    "SlidingWindowStats",
+    "group_by_object",
+    "group_by_source",
+    "group_by_hour",
+    "group_by_date",
+    "group_by_interval",
+    "group_by_zone",
 ]
