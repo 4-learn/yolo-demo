@@ -13,16 +13,30 @@ from .rules import (
     Action,
     Severity,
 )
+from .ml_classifier import (
+    ViolationClassifier,
+    extract_features,
+    prepare_dataset,
+    evaluate_model,
+    save_classifier,
+    load_classifier,
+    FEATURE_NAMES,
+)
+from .hybrid_classifier import HybridClassifier
 
 __all__ = [
+    # Schema
     "DetectionEvent",
     "PPEDetectionEvent",
+    # Converter
     "yolo_to_events",
+    # Event Processing
     "EventDeduplicator",
     "calculate_iou",
     "EventAccumulator",
     "ObjectCounter",
     "EventPipeline",
+    # Rule Engine
     "Rule",
     "RuleConditions",
     "RuleEngine",
@@ -30,4 +44,14 @@ __all__ = [
     "RuleResult",
     "Action",
     "Severity",
+    # ML Classifier
+    "ViolationClassifier",
+    "extract_features",
+    "prepare_dataset",
+    "evaluate_model",
+    "save_classifier",
+    "load_classifier",
+    "FEATURE_NAMES",
+    # Hybrid Classifier
+    "HybridClassifier",
 ]
