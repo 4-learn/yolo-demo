@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['head', 'helmet']
+
+roboflow:
+  workspace: yolodemo-flien
+  project: helmet-c1enh-zokpu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolodemo-flien/helmet-c1enh-zokpu/dataset/1
