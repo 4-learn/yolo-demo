@@ -1,0 +1,802 @@
+[
+  {
+    "source_image": "frame_008.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8038,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.3705,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_007.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.4344,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7084,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6809,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8239,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.5414,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6646,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_013.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9095,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_012.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.4086,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_008.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.9057,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9478,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6816,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6377,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8257,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6486,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_002.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6584,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6058,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_011.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.5326,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_015.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6899,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.3779,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_013.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7052,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_016.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7795,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.3594,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_013.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8633,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8702,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8017,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_010.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.9153,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6817,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9143,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_020.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8448,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_017.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.4248,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8898,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_010.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9318,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6434,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.4472,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8193,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_007.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.4555,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_010.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9133,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_017.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7209,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6446,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8345,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_002.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8088,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_016.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8106,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_019.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6238,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_014.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8364,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_014.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.3694,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7555,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.4956,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_014.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6342,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.4425,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_002.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.755,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8811,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_016.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.9273,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7556,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_015.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7774,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_018.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7254,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_007.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.873,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_011.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8869,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_017.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.4668,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.5422,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_013.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.3636,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_020.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.5281,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_019.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.3664,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_011.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7682,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_010.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6712,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7672,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7797,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_012.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6911,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9319,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_017.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.6978,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.5134,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8201,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_007.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8233,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8305,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_002.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6452,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.4347,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6235,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8828,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_005.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.539,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_005.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7502,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_002.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6075,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_004.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8315,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_020.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7008,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_006.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.9389,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9216,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_014.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.5349,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.9296,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_002.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.4903,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_015.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8334,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_008.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7477,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_003.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.3886,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_013.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8419,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_001.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.9265,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_009.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.5441,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_011.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.4693,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_019.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7772,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_017.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.3589,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_007.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8808,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  },
+  {
+    "source_image": "frame_011.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6126,
+    "rule": "-",
+    "action": "-",
+    "severity": "-"
+  }
+]

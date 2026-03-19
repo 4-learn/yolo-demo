@@ -1,0 +1,170 @@
+[
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8495,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.832,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.8104,
+    "rule": "沒戴安全帽",
+    "action": "alert",
+    "severity": "high"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8079,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.798,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7923,
+    "rule": "沒戴安全帽",
+    "action": "alert",
+    "severity": "high"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7857,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7756,
+    "rule": "沒戴安全帽",
+    "action": "alert",
+    "severity": "high"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7702,
+    "rule": "沒戴安全帽",
+    "action": "alert",
+    "severity": "high"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7373,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.7129,
+    "rule": "沒戴安全帽",
+    "action": "alert",
+    "severity": "high"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.6924,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed1.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.5535,
+    "rule": "沒戴安全帽（低信心）",
+    "action": "warning",
+    "severity": "low"
+  },
+  {
+    "source_image": "mixed2.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8553,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed2.jpg",
+    "event_type": "head_detected",
+    "confidence": 0.845,
+    "rule": "沒戴安全帽",
+    "action": "alert",
+    "severity": "high"
+  },
+  {
+    "source_image": "mixed2.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8213,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed2.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8209,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed2.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7577,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "mixed2.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.7225,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "safe1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8837,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  },
+  {
+    "source_image": "safe1.jpg",
+    "event_type": "helmet_detected",
+    "confidence": 0.8676,
+    "rule": "預設",
+    "action": "ok",
+    "severity": "-"
+  }
+]
