@@ -1,0 +1,28 @@
+# 規則設定檔
+# 由上往下比對，第一條符合的就生效
+
+rules:
+  # 低信心 → 忽略（最優先，避免誤判）
+  - name: 低信心忽略
+    max_confidence: 0.5
+    action: ignore
+
+  # 沒戴安全帽且信心夠高 → alert
+  - name: 沒戴安全帽
+    event_type: head_detected
+    min_confidence: 0.7
+    action: alert
+    severity: high
+
+  # 沒戴安全帽但信心偏低 → warning
+  - name: 沒戴安全帽（低信心）
+    event_type: head_detected
+    action: warning
+    severity: low
+
+  # 其他（有戴安全帽）→ 正常
+  - name: 預設
+    action: ok
+
+# 聚合設定：連續 N 張圖都有 alert 才真正發佈
+alert_threshold: 2

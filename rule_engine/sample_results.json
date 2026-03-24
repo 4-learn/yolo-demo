@@ -1,0 +1,254 @@
+[
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8495,
+    "bbox": {
+      "x1": 252.97,
+      "y1": 139.94,
+      "x2": 278.38,
+      "y2": 176.48
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165153+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.832,
+    "bbox": {
+      "x1": 357.63,
+      "y1": 116.8,
+      "x2": 404.5,
+      "y2": 174.04
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165232+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.8104,
+    "bbox": {
+      "x1": 60.27,
+      "y1": 141.65,
+      "x2": 82.53,
+      "y2": 170.84
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165313+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8079,
+    "bbox": {
+      "x1": 117.79,
+      "y1": 147.48,
+      "x2": 139.76,
+      "y2": 177.99
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165346+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.798,
+    "bbox": {
+      "x1": 78.78,
+      "y1": 149.67,
+      "x2": 99.08,
+      "y2": 177.5
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165378+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.7923,
+    "bbox": {
+      "x1": 223.49,
+      "y1": 151.5,
+      "x2": 241.96,
+      "y2": 176.87
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165408+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.7857,
+    "bbox": {
+      "x1": 4.21,
+      "y1": 144.81,
+      "x2": 36.84,
+      "y2": 181.7
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165437+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.7756,
+    "bbox": {
+      "x1": 198.99,
+      "y1": 146.28,
+      "x2": 217.22,
+      "y2": 170.9
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165466+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.7702,
+    "bbox": {
+      "x1": 173.15,
+      "y1": 154.25,
+      "x2": 193.89,
+      "y2": 185.48
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165507+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.7373,
+    "bbox": {
+      "x1": 97.2,
+      "y1": 139.15,
+      "x2": 113.51,
+      "y2": 161.13
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165540+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.7129,
+    "bbox": {
+      "x1": 158.71,
+      "y1": 149.68,
+      "x2": 177.58,
+      "y2": 176.52
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165569+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.6924,
+    "bbox": {
+      "x1": 298.68,
+      "y1": 143.9,
+      "x2": 322.84,
+      "y2": 180.24
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165598+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.5535,
+    "bbox": {
+      "x1": 317.27,
+      "y1": 139.93,
+      "x2": 343.56,
+      "y2": 176.96
+    },
+    "source_image": "mixed1.jpg",
+    "timestamp": "2026-03-16T17:36:56.165626+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8553,
+    "bbox": {
+      "x1": 235.96,
+      "y1": 69.52,
+      "x2": 281.8,
+      "y2": 119.52
+    },
+    "source_image": "mixed2.jpg",
+    "timestamp": "2026-03-16T17:36:56.374519+00:00"
+  },
+  {
+    "event_type": "head_detected",
+    "confidence": 0.845,
+    "bbox": {
+      "x1": 163.9,
+      "y1": 118.91,
+      "x2": 215.78,
+      "y2": 168.35
+    },
+    "source_image": "mixed2.jpg",
+    "timestamp": "2026-03-16T17:36:56.374561+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8213,
+    "bbox": {
+      "x1": 182.97,
+      "y1": 90.59,
+      "x2": 228.88,
+      "y2": 131.25
+    },
+    "source_image": "mixed2.jpg",
+    "timestamp": "2026-03-16T17:36:56.374592+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8209,
+    "bbox": {
+      "x1": 236.61,
+      "y1": 14.24,
+      "x2": 281.5,
+      "y2": 63.25
+    },
+    "source_image": "mixed2.jpg",
+    "timestamp": "2026-03-16T17:36:56.374620+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.7577,
+    "bbox": {
+      "x1": 285.86,
+      "y1": 202.45,
+      "x2": 320.89,
+      "y2": 243.97
+    },
+    "source_image": "mixed2.jpg",
+    "timestamp": "2026-03-16T17:36:56.374646+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.7225,
+    "bbox": {
+      "x1": 178.23,
+      "y1": 0.7,
+      "x2": 228.85,
+      "y2": 41.75
+    },
+    "source_image": "mixed2.jpg",
+    "timestamp": "2026-03-16T17:36:56.374673+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8837,
+    "bbox": {
+      "x1": 322.54,
+      "y1": 0.0,
+      "x2": 416.0,
+      "y2": 53.53
+    },
+    "source_image": "safe1.jpg",
+    "timestamp": "2026-03-16T17:36:56.589598+00:00"
+  },
+  {
+    "event_type": "helmet_detected",
+    "confidence": 0.8676,
+    "bbox": {
+      "x1": 317.87,
+      "y1": 82.94,
+      "x2": 416.0,
+      "y2": 179.28
+    },
+    "source_image": "safe1.jpg",
+    "timestamp": "2026-03-16T17:36:56.589643+00:00"
+  }
+]
